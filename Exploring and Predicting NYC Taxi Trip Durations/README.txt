@@ -1,0 +1,1 @@
+Since this is a regression based problem. The evaluation metrics I choose consider of Mean Absolute Error, Mean Squared Error, Root Mean Square Error and R squared.
